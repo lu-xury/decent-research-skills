@@ -1,0 +1,92 @@
+{
+  "name": "decent-research-skills",
+  "language": "zh-CN",
+  "updated": "2026-09-11",
+  "entrypoint": "SKILL.md",
+  "specialized_skills": [
+    "skills/01-literature/SKILL.md",
+    "skills/02-problem-discovery/SKILL.md",
+    "skills/03-mechanism-architecture/SKILL.md",
+    "skills/04-training-data/SKILL.md",
+    "skills/05-experiments/SKILL.md",
+    "skills/06-decision-writing/SKILL.md",
+    "skills/07-scientific-ml/SKILL.md"
+  ],
+  "templates": [
+    "templates/claim_evidence_matrix.md",
+    "templates/experiment_plan.md",
+    "templates/gradient_information_audit.md",
+    "templates/problem_card.md",
+    "templates/reading_card.md",
+    "templates/research_review.md"
+  ],
+  "self_contained": true,
+  "requires_reading_archive": false,
+  "files": {
+    "README.md": {
+      "bytes": 2902,
+      "sha256": "566830d3fb043f9e39fd0fb892049ed957a1b7c3c06a9999ea9e54e7cbdc1e7e"
+    },
+    "SKILL.md": {
+      "bytes": 6086,
+      "sha256": "d431bcded74eb5ec250382c334f32737f4dfa6a49c77aab83a9e9894271f0cd4"
+    },
+    "research_taste.md": {
+      "bytes": 7100,
+      "sha256": "83b5ccbd81ac98bc2a532838896d2226cb535c62d115e7091b572134dfb49c62"
+    },
+    "skills/01-literature/SKILL.md": {
+      "bytes": 3826,
+      "sha256": "3624d74e2a95f7ed77d78759f6f567558def671f34a411dc15b688fa44ea72e0"
+    },
+    "skills/02-problem-discovery/SKILL.md": {
+      "bytes": 3414,
+      "sha256": "350edee0f1fdc2f8ab9923ab775003e7a2a2bdb78e5b3554bbb2b900404b6d44"
+    },
+    "skills/03-mechanism-architecture/SKILL.md": {
+      "bytes": 3869,
+      "sha256": "5f21e5fd0ebaaf4f96dac594f7b72d5bec36cfa15856c2b986bf4ab2dddbda51"
+    },
+    "skills/04-training-data/SKILL.md": {
+      "bytes": 3905,
+      "sha256": "5f5480e7fef51b83042ce87ca904de04acc394a6322c1177f74e2f0d3a156d8f"
+    },
+    "skills/05-experiments/SKILL.md": {
+      "bytes": 3901,
+      "sha256": "cca78905e6f82b15d71f1fa9cab0fbad16a40ac8af39908ada22704c0729990f"
+    },
+    "skills/06-decision-writing/SKILL.md": {
+      "bytes": 3577,
+      "sha256": "0c4e44cb0fbf1ad71efe7f5fced904b22d0c0465811524a0b46bfd3ec0c8a413"
+    },
+    "skills/07-scientific-ml/SKILL.md": {
+      "bytes": 4999,
+      "sha256": "9de5f09b3bb67a62486a3c0014e0823202cf2b2b6d3dd1632c7d35225ed2b974"
+    },
+    "templates/claim_evidence_matrix.md": {
+      "bytes": 1139,
+      "sha256": "438e26f6dd4eb43786f6811d88044de467328e208ea07ba7afc4d9a93f54dfe9"
+    },
+    "templates/experiment_plan.md": {
+      "bytes": 975,
+      "sha256": "779a3f4b5d1e2bfbb834e81fa5226e18053d25d28e416ff4371522655e5e4bfc"
+    },
+    "templates/gradient_information_audit.md": {
+      "bytes": 1133,
+      "sha256": "d8e58bde0bd09f16014fe4e5fde02223083e5bd13783419485cf9da90a81610b"
+    },
+    "templates/problem_card.md": {
+      "bytes": 1013,
+      "sha256": "10095d31cd51faca07a9ef93f26c05bf92c95d36babe69ce2cf856ef24e646f5"
+    },
+    "templates/reading_card.md": {
+      "bytes": 1180,
+      "sha256": "dce0824db5ff1ee515b290b4898518b97f8a1b4a4e80bb8d03712e972eea161c"
+    },
+    "templates/research_review.md": {
+      "bytes": 1230,
+      "sha256": "5bf4585180dfad49132303a8bcc52243464a1606c4e2af918501781bb036034e"
+    }
+  },
+  "repository": "https://github.com/lu-xury/decent-research-skills"
+}
